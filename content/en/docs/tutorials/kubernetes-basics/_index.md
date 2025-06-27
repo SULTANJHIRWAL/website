@@ -7,7 +7,7 @@ content_type: concept
 card:
   name: tutorials
   weight: 20
-  title: Walkthrough the basics
+  title: Walkthrough The Basics
 ---
 
 ## {{% heading "objectives" %}}
